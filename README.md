@@ -41,7 +41,7 @@ Examples of how to use Luminosus in combination with a lighting console, especia
 
 **Notes:** The channels don't have to be consecutive. To light up multiple rows in parallel use the "Join Rows" block as shown in this example.
 
-[Download Template File](templates/S2L: Bar of Lights.lpr)
+[Download Template File](templates/S2L - Bar of Lights.lpr)
 
 ![Screenshot](images/s2l_bar_of_lights.png)
 
