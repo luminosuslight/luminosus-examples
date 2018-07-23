@@ -6,31 +6,31 @@ Examples of how to use Luminosus in combination with a lighting console, especia
 
 ## Index
 
-[Sound2Light: Linear Bar of Lights / Channel Range]()
+[Sound2Light: Linear Bar of Lights / Channel Range](#)
 
-[Sound2Light: Multichannel Input]()
+[Sound2Light: Multichannel Input](#)
 
-[Sound2Light: Delayed Trigger]()
+[Sound2Light: Delayed Trigger](#)
 
-[Sound2Light: BPM Detection]()
+[Sound2Light: BPM Detection](#)
 
-[Sound2Light: Trigger Cues]()
+[Sound2Light: Trigger Cues](#)
 
-[Sound2Light: Clean Beat Signal]()
+[Sound2Light: Clean Beat Signal](#)
 
-[Sound2Light: Random Color on Beat]()
-
----
-
-[MIDI Controller: Map to Fader Bank]()
+[Sound2Light: Random Color on Beat](#)
 
 ---
 
-[Cue List: Adding Notes]()
+[MIDI Controller: Map to Fader Bank](#)
 
-[Cue List: Trigger Soundeffect on Cue]()
+---
 
-[Cue List: Light up MIDI Controller Button with Cue]()
+[Cue List: Adding Notes](#)
+
+[Cue List: Trigger Soundeffect on Cue](#)
+
+[Cue List: Light up MIDI Controller Button with Cue](#)
 
 
 ## Sound2Light
